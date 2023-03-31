@@ -1,0 +1,12 @@
+C:\Users\PF5D\source\repos\RestaurantManagementSystem\RestaurantManagementSystem.DomainEntities\bin\Debug\net6.0\RestaurantManagementSystem.DomainEntities.deps.json
+C:\Users\PF5D\source\repos\RestaurantManagementSystem\RestaurantManagementSystem.DomainEntities\bin\Debug\net6.0\RestaurantManagementSystem.DomainEntities.dll
+C:\Users\PF5D\source\repos\RestaurantManagementSystem\RestaurantManagementSystem.DomainEntities\bin\Debug\net6.0\RestaurantManagementSystem.DomainEntities.pdb
+C:\Users\PF5D\source\repos\RestaurantManagementSystem\RestaurantManagementSystem.DomainEntities\obj\Debug\net6.0\RestaurantManagementSystem.DomainEntities.csproj.AssemblyReference.cache
+C:\Users\PF5D\source\repos\RestaurantManagementSystem\RestaurantManagementSystem.DomainEntities\obj\Debug\net6.0\RestaurantManagementSystem.DomainEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PF5D\source\repos\RestaurantManagementSystem\RestaurantManagementSystem.DomainEntities\obj\Debug\net6.0\RestaurantManagementSystem.DomainEntities.AssemblyInfoInputs.cache
+C:\Users\PF5D\source\repos\RestaurantManagementSystem\RestaurantManagementSystem.DomainEntities\obj\Debug\net6.0\RestaurantManagementSystem.DomainEntities.AssemblyInfo.cs
+C:\Users\PF5D\source\repos\RestaurantManagementSystem\RestaurantManagementSystem.DomainEntities\obj\Debug\net6.0\RestaurantManagementSystem.DomainEntities.csproj.CoreCompileInputs.cache
+C:\Users\PF5D\source\repos\RestaurantManagementSystem\RestaurantManagementSystem.DomainEntities\obj\Debug\net6.0\RestaurantManagementSystem.DomainEntities.dll
+C:\Users\PF5D\source\repos\RestaurantManagementSystem\RestaurantManagementSystem.DomainEntities\obj\Debug\net6.0\refint\RestaurantManagementSystem.DomainEntities.dll
+C:\Users\PF5D\source\repos\RestaurantManagementSystem\RestaurantManagementSystem.DomainEntities\obj\Debug\net6.0\RestaurantManagementSystem.DomainEntities.pdb
+C:\Users\PF5D\source\repos\RestaurantManagementSystem\RestaurantManagementSystem.DomainEntities\obj\Debug\net6.0\ref\RestaurantManagementSystem.DomainEntities.dll
